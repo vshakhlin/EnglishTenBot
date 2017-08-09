@@ -1,0 +1,17 @@
+{
+    "name": "EnglishTenBot",
+    "version": "0.0.1",
+    "description": "EnglishTenBot - bot for Telegram. Learn ten English word every day",
+    "author": "Vitaliy Shakhlin",
+    "dependencies": {
+        "node-telegram-bot-api": "*",
+		"node-schedule": "*",
+        "mongoose": "*",
+        "mongoose-double": "*",
+		"request": "*"
+    },
+    "engines": {
+        "node": "4.4.7",
+        "npm": "2.5.18"
+    }
+}
